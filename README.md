@@ -1,3 +1,3 @@
 # projects-
 This is my first git repository 
-author- sohan prakash 
+Author- sohan prakash 
